@@ -1,11 +1,11 @@
 
 # Hey I'm Natasha 👾
 
-For me software engineering is an extension of my creative career, as I have a background in visual arts production with a deep passion for designing memoriable interactive experiences. I'm particularly interested in creative technologies that promote human expression and encourage engagement with the real world.
+Software engineering student with a passion for designing memorable interactive experiences. With a background in visual arts production, I see software engineering as an extension of my creative career. I am particularly drawn to creative technologies that promote human expression and encourage engagement with the real world.
 
 ## 💻 Currently at Bootcamp...
 
-Full time inperson learning the fundamentals of programmiing though expanding on source code then developing projects from scratch in small groups.
+I'm engaged in full-time in-person learning, focusing on the fundamentals of programming. Through expanding on source code and developing projects from scratch in small groups, I am gaining hands-on experience and sharpening my skills.
 
 ## 💪 What I've been learning  
 
