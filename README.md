@@ -7,8 +7,6 @@ For me software engineering is an extension of my creative career, as I have a b
 
 Full time inperson learning the fundamentals of programmiing though expanding on source code then developing projects from scratch in small groups.
 
-
-## 💪 I've been learning 
 ## 💪 What I've been learning 
 
 **Front End**
