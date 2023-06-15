@@ -6,7 +6,7 @@ Software engineering student with a passion for designing memorable interactive 
 ## 💻 Currently at Bootcamp...
 
 I'm engaged in full-time in-person learning, focusing on the fundamentals of programming. Through expanding on source code and developing projects from Implementing event listeners and handling user interactions
--
+
 
 ## 🔮 In my future I'd like to learn
 
