@@ -10,12 +10,13 @@ I'm engaged in full-time in-person learning, focusing on the fundamentals of pro
 
 ## 🔮 In my future I'd like to learn
 
-** creative technologies **
+creative technologies such as:
   - Projection Mapping
   - Programming interactive motion art 
   - Extended reality projections 
+  - Robotics
   
-** professional **
+professional:
   - project management 
   - event production 
   - brand building proccesses 
