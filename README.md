@@ -1,7 +1,7 @@
 
 # Hey I'm Natasha 👾
 
-Software engineering student with a passion for designing memorable interactive experiences. With a background in visual arts production, I see software engineering as an extension of my creative career. I am particularly drawn to creative technologies that promote human expression and encourage engagement with the real world.
+Software engineering student with a passion for designing memorable interactive experiences. With a background in visual arts production, I see software engineering as an extension of my creative career 🎨 I am particularly drawn to creative technologies that promote human expression and encourage engagement with the real world.
 
 ## 💻 Currently at Bootcamp...
 
